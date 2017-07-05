@@ -1,3 +1,3 @@
 ﻿## Exploring Survival on the Titanic
 
-For more details see the **P2.ipynb** file.
+For more detail see the **P2.ipynb** file.
