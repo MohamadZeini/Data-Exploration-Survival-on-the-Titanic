@@ -26,7 +26,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### Code
 
-Template code is provided in the `Bay_Area_Bike_Share_Analysis.ipynb` notebook file. You will also be required to use `titanic-data.csv` data file.
+The code is provided in the `P2.ipynb` notebook file. You will also be required to use `titanic-data.csv` data file.
 
 ### Run
 
